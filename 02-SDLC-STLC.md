@@ -1,6 +1,7 @@
 # Software Development Life Cycle (SDLC)
 SDLC is a structured framework that defines the software development process from beginning to end i.e. from initial idea to final deployment and maintenance. The goal of SDLC is to develop a high-quality software that meets the customers’ requirements or satisfaction and to reach the completion within a dedicated time and cost.
 ## Stages of SDLC:
+![SDLC Phases](images/SDLC-phases.svg)
 1.	**Planning and Requirements Analysis:** It is the most fundamental stage where team gathers business and functional requirements from stakeholders.
 - **Goal:** To understand users and stakeholder expectations and constraints
 - **Activities:** Identifying technical, operational, economic feasibility and risks, meeting with clients, documenting the software requirements
@@ -30,6 +31,8 @@ SDLC is a structured framework that defines the software development process fro
 # Software Testing Life Cycle (STLC)
 STLC is a subset of SDLC which emphasizes the quality assurance and testing aspects of software development. STLC is like a roadmap for the testing process that is used by the testing teams to ensure the quality of the software product. The goal of STLC is to find and fix bugs so that the software is functional and reliable before the release.
 ## Stages of STLC:
+![STLC Phases](images/STLC-phases.svg)
+
 1.  **Requirement Analysis:** In this stage, the team gathers information regarding the expectations from the software.
 - **Goal:** To understand what needs to be tested on the basis of software requirements. 
 - **Activities:** Identifying testable items and the types of tests needed, note constraints, reviewing the requirements.

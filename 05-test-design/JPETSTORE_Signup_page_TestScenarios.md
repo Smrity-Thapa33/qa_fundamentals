@@ -1,5 +1,8 @@
 # JPetStore - Signup Page Test Scenarios
 
+📥 **Excel Version:**  
+[JPETSTORE_Signup_page_TestScenarios.xlsx](./JPETSTORE_Signup_page_TestScenarios.xlsx)
+
 ## Module
 Signup / User Registration
 

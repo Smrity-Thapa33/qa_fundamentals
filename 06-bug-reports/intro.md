@@ -2,12 +2,12 @@
 
 ## 📑 Table of Contents
 
-- [What is a Bug/Defect?](#-what-is-Bug/Defect)
-- [Severity vs Priority](#-severity-vs-priority)
-- [Bug/ Defect Life Cycle](#-bug/defect-life-cycle)
-- [How to Write an effective Bug Report](#-how-to-write-an-effective-bug-report)
-- [Severity vs Priority](#-severity-vs-priority)
-- [Conclusion](#-conclusion)
+- [What is a Bug / Defect?](#what-is-a-bug--defect)
+- [Severity vs Priority](#severity-vs-priority)
+- [Bug / Defect Life Cycle](#-bug--defect-life-cycle)
+- [How to Write an Effective Bug Report](#how-to-write-an-effective-bug-report)
+- [Severity vs Priority](#severity-vs-priority)
+- [Conclusion](#conclusion)
 
 ## What is a Bug / Defect?
 A **bug (defect)** is a deviation between the **expected result** and the **actual result** of a software application.

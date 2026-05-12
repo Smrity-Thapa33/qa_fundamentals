@@ -6,7 +6,6 @@
 - [Severity vs Priority](#severity-vs-priority)
 - [Bug / Defect Life Cycle](#-bug--defect-life-cycle)
 - [How to Write an Effective Bug Report](#how-to-write-an-effective-bug-report)
-- [Severity vs Priority](#severity-vs-priority)
 - [Conclusion](#conclusion)
 
 ## What is a Bug / Defect?

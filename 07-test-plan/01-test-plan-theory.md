@@ -2,11 +2,11 @@
 
 ## 📑 Table of Contents
 
-1. [What is a Test Plan?](#-what-is-a-test-plan)
-2. [Why is a Test Plan Important?](#-why-is-a-test-plan-important)
-3. [What Does a Test Plan Include?](#-what-does-a-test-plan-include)
+1. [What is a Test Plan?](#what-is-a-test-plan)
+2. [Why is a Test Plan Important?](#why-is-a-test-plan-important)
+3. [What Does a Test Plan Include?](#what-does-a-test-plan-include)
 4. [Characteristics of a Good Test Plan](#-characteristics-of-a-good-test-plan)
-5. [Purpose of a Test Plan in QA](#-purpose-of-a-test-plan-in-qa)
+5. [Purpose of a Test Plan in QA](#purpose-of-a-test-plan-in-qa)
 
 ---
 

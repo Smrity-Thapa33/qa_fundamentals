@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+
+# Excel temp files (created when a file is open)
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Word temp files
+~$*.docx
+~$*.doc
+
+# PowerPoint temp files
+~$*.pptx
+~$*.ppt
+
+# Backup files created by Office
+*.xlk
+*.bak
+
+
+.vscode/
+!.vscode/extensions.json
+
+
+*.log
+*.tmp
+*.temp
+
+
+# Postman environment files 
+*postman_environment*.json
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Allure reports
+allure-results/
+allure-report/
+
+
+node_modules/
+npm-debug.log*
